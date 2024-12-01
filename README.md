@@ -1,6 +1,6 @@
 <h2 align="left">Hey, I'm Samin!</h2>
-<h3 align="left">I'm a third year CS student at the University of Waterloo</h3>
-Check out my personal website at https://agneus.github.io/
+<h3 align="left">I'm a fourth-year CS student at the University of Waterloo</h3>
+Check out my website at https://agneus.github.io/
 
 <!--
 **agneus/agneus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
